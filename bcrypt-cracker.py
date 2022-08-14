@@ -2,8 +2,6 @@
 # Tool: Bcrypt Hash Cracker
 # Created on: 10-Oct-2021
 # Tested on Python3
-# Github: https://github.com/h4r5h5
-# Instagram: https://www.instagram.com/h4r5h_h4ck5/
 print("""
           -Bcrypt Hash Cracker-
            --------     --------                  
