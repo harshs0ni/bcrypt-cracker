@@ -39,3 +39,6 @@ user1@kali:~/bcrypt_cracker$ python3 bcrypt_cracker.py -h '$2a$04$TXuWvK7tYFfMVk
 ```
 ## Facing any Error
 Connect me
+Instagram[https://www.instagram.com/harshs0ni__/]
+Twitter[https://twitter.com/harshs0ni__]
+Mail-its@harshs0ni.com
